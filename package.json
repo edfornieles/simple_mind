@@ -8,7 +8,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "openai": "^4.79.2"
+    "openai": "^4.98.0"
   },
   "type": "module"
 }
